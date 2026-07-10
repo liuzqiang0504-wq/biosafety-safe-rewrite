@@ -1,0 +1,4 @@
+interface:
+  display_name: "First of All"
+  short_description: "审阅、改写并更新生物学提示与技能说明文本。"
+  default_prompt: "Use $first-of-all to review, safely rewrite, and update this biology-related prompt or SKILL.md."
