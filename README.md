@@ -1,6 +1,6 @@
-# First of All
+# Biosafety Safe Rewrite
 
-**First of All** is a Codex skill for reviewing biology-related prompts and
+**Biosafety Safe Rewrite** is a Codex skill for reviewing biology-related prompts and
 `SKILL.md` files before work begins. It helps preserve legitimate research
 intent while reducing avoidable ambiguity, excessive operational detail, and
 unsafe framing.
@@ -38,7 +38,7 @@ It is not a tool for concealing a target, changing names, or evading safeguards.
 
 ## What it does not do
 
-First of All does not guarantee that a rewritten request will be accepted by a
+Biosafety Safe Rewrite does not guarantee that a rewritten request will be accepted by a
 product. Safety decisions depend on the complete task, requested detail,
 context, and applicable system rules. The skill does not help users bypass
 safeguards or disguise harmful objectives.
@@ -48,7 +48,7 @@ safeguards or disguise harmful objectives.
 Place this repository in your Codex skills directory:
 
 ```text
-%USERPROFILE%\.codex\skills\first-of-all
+%USERPROFILE%\.codex\skills\biosafety-safe-rewrite
 ```
 
 Start a new Codex task after installing or updating the skill.
@@ -58,16 +58,16 @@ Start a new Codex task after installing or updating the skill.
 Invoke the skill explicitly:
 
 ```text
-$first-of-all
+$biosafety-safe-rewrite
 ```
 
 Examples:
 
 ```text
-Use $first-of-all to review this biology-related prompt and provide a
+Use $biosafety-safe-rewrite to review this biology-related prompt and provide a
 copy-ready revision.
 
-Use $first-of-all to inspect this SKILL.md, apply only necessary safe edits,
+Use $biosafety-safe-rewrite to inspect this SKILL.md, apply only necessary safe edits,
 and provide the validation and rollback details.
 ```
 
